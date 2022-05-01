@@ -7,19 +7,6 @@ I've been learning html, css and JS for 3 months, but I really found interest fo
 🧠  I'm learning C programming
 ⚡  I'm secretly Spiderman.... don't tell anyone
 
-Skills
-C
-Javascript
-Python
-HTML5
-React
-TailwindCSS
-NextJs
-CSS3
-Babel
-NodeJS
-Socials
-
 ### Skills
 
 <p align="left">
