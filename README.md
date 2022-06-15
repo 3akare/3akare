@@ -1,11 +1,8 @@
-Hi 👋 My name is David Bakare
-Software Developer
-I've been learning html, css and JS for 3 months, but I really found interest for backend development
+Software Engineer 
 
 🌍  I'm based in Abuja, Nigeria
 ✉️  You can contact me at bakaredavid007@gmail.com
-🧠  I'm learning C programming
-⚡  I'm secretly Spiderman.... don't tell anyone
+
 
 ### Skills
 
