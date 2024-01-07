@@ -2,7 +2,7 @@ You can contact me at [bakaredavid007@gmail.com](mailto:bakaredavid007@gmail.com
 <br/>
 <br/>
 <br/>
-![tools](https://skills.thijs.gg/icons?i=react,tailwindcss,html,css,javascript,typescript,vite,mysql,mongodb,firebase,nginx,nodejs,c,python,bash,figma)
+![tools](https://skills.thijs.gg/icons?i=react,tailwindcss,html,css,javascript,typescript,vite,firebase,c,python,figma)
 
 
 <br>
