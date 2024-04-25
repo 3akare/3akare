@@ -2,7 +2,7 @@
 - 🖥️ I have been writing code for over 2 years
 - 🏢 I'm the Founder of [nobr](https://nobr-delta.vercel.app)
 - 📖 I'm learning flutter, and C++ at the moment 
-- I'm currently looking for a role as a NextJS developer preferably at a startup where I can make an impact quickly.
+- I'm currently interning as a software engineer at [Remita](https://remita.net) Payment Services LTD
 - Follow me on [twitter](https://www.twitter/_Bakaredavid)
 - View my [Resume](https://docs.google.com/document/d/1RsN0xXQAlFIkCXa7YFGy1ai5tYbv32XtATxnDpgtCgo/edit?usp=sharing)
 
