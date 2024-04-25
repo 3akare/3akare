@@ -7,7 +7,8 @@
 - View my [Resume](https://docs.google.com/document/d/1RsN0xXQAlFIkCXa7YFGy1ai5tYbv32XtATxnDpgtCgo/edit?usp=sharing)
 
 ## Skills and Technologies
-![tools](https://skills.thijs.gg/icons?i=javascript,typescript,python)
-![tools](https://skills.thijs.gg/icons?i=mysql,mongodb,nodejs,firebase)
-![tools](https://skills.thijs.gg/icons?i=c,bash)
-![tools](https://skills.thijs.gg/icons?i=nextjs,tailwindcss)
+- C/C++, bash, Javascript, python, Java 
+- React, NextJS
+- NodeJS, Express, Firebase, Spring Boot
+- MySQL, MonogoDB
+  
